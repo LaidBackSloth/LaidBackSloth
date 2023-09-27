@@ -27,7 +27,7 @@ I'm LaidBackSloth and I like to code <a href="https://www.minecraft.net">Minecra
  <a href="https://www.curseforge.com/minecraft/modpacks/saffron-create"><img src="http://cf.way2muchnoise.eu/852790.svg" alt="CurseForge"></a>
 
 
-If you want your own Minecraft server to play with friends, check out Kinetic Hosting. They provide powerful servers for a fair price while being easy to use and they have great support. Click on the image below for more information, and if you are interested, use code **LAIDBACKSLOTH** at checkout for a 15% discount.
+If you want your own Minecraft server to play with friends, check out Kinetic Hosting. They provide powerful servers for a fair price while being easy to use, and they have great support. Click on the image below for more information, and if you are interested, use code **LAIDBACKSLOTH** at checkout for a 15% discount.
 
 <a href="https://billing.kinetichosting.net/aff.php?aff=567"><img src="https://github.com/LaidBackSloth/LaidBackSloth/blob/c892c3a3b177e5c8d2a79152cf5118b2fdc1507d/laidbacksloth-assets/LAIDBACKSLOTH.png" alt="Kinetic Hosting"></a>
 </div>
