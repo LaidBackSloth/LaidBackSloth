@@ -8,7 +8,7 @@ I'm LaidBackSloth, a programmer from Germany.
 
 - I'm working on many different projects, mostly in Typescript or Python
 - I currently mostly do web development with <a href="https://nextjs.org/">Next.js</a>
-- Apart from coding, I am interested in Music, especially Classical, trying to get better at composing as well as playing multiple instruments
+- Apart from coding, I am interested in Music, especially from the Late Romantic Period, trying to get better at composing as well as playing multiple instruments
 
 
 ## Minecraft
@@ -32,4 +32,4 @@ I used to code mods for the game <a href="https://www.minecraft.net">Minecraft</
 
 I am partnered with Kinetic Hosting. Check them out if you want your own Minecraft server to play with friends, as they provide powerful servers for a fair price while being easy to use, and they have a nice support. Click on the image below for more information, and if you are interested, use code **LAIDBACKSLOTH** at checkout for a 15% discount.
 
-<a href="https://kinetichosting.ajayden.dev/aff.php?aff=567"><img src="https://github.com/LaidBackSloth/LaidBackSloth/blob/c892c3a3b177e5c8d2a79152cf5118b2fdc1507d/laidbacksloth-assets/LAIDBACKSLOTH.png" alt="Kinetic Hosting"></a>
+<a href="https://kinetichosting.ajayden.dev/aff.php?aff=567"><img src="https://media.forgecdn.net/attachments/1338/85/kh-curseforge-finalstandardbanner-small-webp.webp" alt="Kinetic Hosting"></a>
