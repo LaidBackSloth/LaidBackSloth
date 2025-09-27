@@ -8,7 +8,7 @@ I'm LaidBackSloth, a programmer from Germany.
 
 - I'm working on many different projects, mostly in Typescript or Python
 - I currently mostly do web development with <a href="https://nextjs.org/">Next.js</a>
-- Apart from coding, I am interested in Music, especially from the Late Romantic Period, trying to get better at composing as well as playing multiple instruments
+- Apart from coding, I am interested in Music, especially from the Late Romantic period, trying to get better at composing as well as playing multiple instruments
 
 
 ## Minecraft
